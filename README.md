@@ -1,10 +1,10 @@
 # Task 4: SQL for Data Analysis
 
- Objective
+## 📌 Objective
 
 Use SQL queries to extract and analyze data from an e-commerce database.
 
-##  Tools
+## 🛠 Tools
 
 * Database: **MySQL / PostgreSQL / SQLite**
 * Dataset: Sample `customers`, `products`, and `orders` tables
